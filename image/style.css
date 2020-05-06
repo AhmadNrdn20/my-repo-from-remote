@@ -1,0 +1,21 @@
+body {
+  width: 100%;
+  margin: 30px;
+  background-color: yellow;
+}
+
+.profile-container {
+  max-width: 300px;
+  background-color: red;
+  border: 1px solid black;
+  border-radius: 6px;
+}
+
+.profile-image {
+  width: 50%;
+  height: auto;
+}
+
+.profile-name h2 {
+  text-align: center;
+}
